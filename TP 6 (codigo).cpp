@@ -1,3 +1,8 @@
+/* Dada una serie de numeros ingresada por el usuario, el programa devuelve el mayor de los valores ingresados.
+/  Juan Manuel Morillo
+/ 18-05-2015
+*/
+
 #include <iostream>
 using namespace std;
 
